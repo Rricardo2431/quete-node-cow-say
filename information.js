@@ -1,7 +1,8 @@
-const name = "Ricardo";
-const campus = "Paris";
-
-module.exports ={
-    name,
-    campus,
+let info = {
+    userName : "Ricardo",
+ campus : "Paris"
 };
+
+
+module.exports =info;
+

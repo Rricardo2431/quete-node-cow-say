@@ -4,7 +4,7 @@ console.log(userInfo);
 const cowsay = require("cowsay");
 
 console.log(cowsay.say({
-    text : `je m'appelle ${userInfo.name} et j'étudie à ${userInfo.campus}`,
+    text : `je m'appelle ${info.name} et j'étudie à ${info.campus}`,
     e : "oO",
     T : "U "
 }));
