@@ -1,4 +1,4 @@
-const name = "John Doe";
+const name = "Ricardo";
 const campus = "Paris";
 
 module.exports ={
